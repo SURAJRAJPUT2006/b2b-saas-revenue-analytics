@@ -6,7 +6,7 @@ realistic B2B SaaS patterns.**
 
 **Why synthetic data?**
 
-1. **Control & Realism:** Publicly available SaaS datasets often lack 
+1. **Control & Realism:** Publicly available SaaS datasets often lack   
    the granularity needed for advanced analysis (MRR movements, 
    feature-level usage, expansion tracking). Generating data allowed 
    me to model realistic business scenarios while including all 
