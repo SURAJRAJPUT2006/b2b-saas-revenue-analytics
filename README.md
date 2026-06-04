@@ -1,4 +1,4 @@
-# Ravenstack-Saas-Churn-Analysis
+# velocity-Saas-Churn-Analysis
 ## Data Methodology
 
 **This project uses synthetically generated data designed to reflect 
