@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 
 # Load data 
-df = pd.read_csv('/home/user/Suraj/Work/SaaS/Data/churn_data.csv')
+df = pd.read_csv('streamlit_app/churn_data.csv')
 
 # Train model and cache 
 @st.cache_resource
