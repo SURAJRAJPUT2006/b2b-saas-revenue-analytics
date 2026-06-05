@@ -1,31 +1,27 @@
 # Just a simple churn predictor app
-# Train a model once, then let people play with the inputs
+# Train a model once, then play with the inputs
 
 import streamlit as st
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 
-# Load data - change this path to wherever your file lives
+# Load data 
 df = pd.read_csv('/home/user/Suraj/Work/SaaS/Data/churn_data.csv')
 
-# Train model and cache it so we don't retrain on every click
+# Train model and cache 
 @st.cache_resource
 def train_model(data):
-    # Drop the account id column - it's not useful for prediction
     temp = data.drop('account_id', axis=1)
     
-    # Convert categorical columns to numbers
     encoded = pd.get_dummies(temp, columns=['plan_tier', 'industry', 'referral_source'], drop_first=True)
     
     X = encoded.drop('churn_flag', axis=1)
     y = encoded['churn_flag']
     
-    # Scale features so they're on similar scales
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X)
     
-    # Logistic regression with balanced class weights because churn is usually imbalanced
     model = LogisticRegression(class_weight='balanced', max_iter=1000, random_state=42)
     model.fit(X_scaled, y)
     
@@ -65,17 +61,15 @@ input_row = {
 
 input_df = pd.DataFrame([input_row])
 
-# One-hot encode the same way
+# One-hot encoding the same way
 input_encoded = pd.get_dummies(input_df, columns=['plan_tier', 'industry', 'referral_source'])
 
 # Align columns with training data
 input_encoded = input_encoded.reindex(columns=feature_cols, fill_value=0)
 
-# Scale and predict
 input_scaled = scaler.transform(input_encoded)
 prob = model.predict_proba(input_scaled)[0][1] * 100
 
-# Show result
 st.subheader("Churn risk prediction")
 
 if prob > 70:
