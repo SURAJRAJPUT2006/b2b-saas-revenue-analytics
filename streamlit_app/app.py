@@ -67,11 +67,11 @@ with tab1:
     
     with col1:
         # Note the fixed file paths here!
-        st.image("streamlit_app/assets/cohort_heatmap.png", caption="The Enterprise Crisis")
-        st.image("streamlit_app/assets/support_sla_trap.png", caption="The Support SLA Trap")
+        st.image("streamlit_app/visual_assets/cohort_heatmap.png", caption="The Enterprise Crisis")
+        st.image("streamlit_app/visual_assets/support_sla_trap.png", caption="The Support SLA Trap")
         
     with col2:
-        st.image("streamlit_app/assets/feature_impact.png", caption="The Golden Handcuffs (SSO/Webhooks)")
+        st.image("streamlit_app/visual_assets/feature_impact.png", caption="The Golden Handcuffs (SSO/Webhooks)")
         
     st.info("💡 **Business Takeaway:** Enterprise accounts churn at 13.8%. Missing the 48-hour support SLA spikes churn probability to over 18%. Integrating SSO reduces churn by 25%.")
 
