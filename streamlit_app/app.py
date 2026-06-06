@@ -6,6 +6,40 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 
+
+# 1. Page Config (makes the app wider and more professional)
+st.set_page_config(page_title="Velocity SaaS Analytics", layout="wide")
+
+st.title("Velocity SaaS: Revenue Operations & Churn Engine")
+
+# 2. Create the Tabs
+tab1, tab2 = st.tabs(["📊 Executive Dashboards", "🤖 Real-Time Churn Predictor"])
+
+# --- TAB 1: THE VISUAL PROOF (Assets) ---
+with tab1:
+    st.header("Historical Revenue Leakage & Insights")
+    st.write("Analysis of 2.2M rows of telemetry data revealed critical MRR decay drivers.")
+    
+    # We use columns to make the images sit nicely next to each other
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.image("assets/cohort_heatmap.png", caption="The Enterprise Crisis")
+        st.image("assets/support_sla_trap.png", caption="The Support SLA Trap")
+        
+    with col2:
+        st.image("assets/feature_impact.png", caption="The Golden Handcuffs (SSO/Webhooks)")
+        
+    st.info("💡 **Business Takeaway:** Enterprise accounts churn at 13.8%. Missing the 48-hour support SLA spikes churn probability to over 18%. Integrating SSO reduces churn by 25%.")
+
+# --- TAB 2: PREDICTIVE ENGINE (The Calculator) ---
+with tab2:
+    st.header("Predictive Churn Engine (98% Recall)")
+    st.write("Adjust customer parameters below to calculate real-time churn probability.")
+    
+#-----------------------------------------------------
+
+
 # Load data 
 df = pd.read_csv('streamlit_app/training_model_churn_data.csv')
 
