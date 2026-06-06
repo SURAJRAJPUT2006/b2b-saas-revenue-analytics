@@ -3,15 +3,14 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 
-# 1. Page Config (makes the app wider and more professional)
 st.set_page_config(page_title="Velocity SaaS Analytics", layout="wide")
 st.title("Velocity SaaS: Revenue Operations & Churn Engine")
 
-# --- BACKEND ML LOGIC (Invisible to user, runs fast) ---
+# --- BACKEND ML LOGIC ---
 # Load data 
 df = pd.read_csv('streamlit_app/training_model_churn_data.csv')
 
-# Train model and cache so it doesn't retrain on every slider click
+# Train model and cache so it does not retrain on every slider click
 @st.cache_resource
 def train_model(data):
     temp = data.drop('account_id', axis=1)
@@ -26,7 +25,7 @@ def train_model(data):
 
 model, scaler, feature_cols = train_model(df)
 
-# --- GLOBAL SIDEBAR (Visible on all tabs) ---
+# --- GLOBAL SIDEBAR  ---
 st.sidebar.header("Customer Details")
 active_days = st.sidebar.slider("Active days last month", 0, 30, 15)
 tickets = st.sidebar.slider("Support tickets", 0, 20, 2)
@@ -38,7 +37,7 @@ plan = st.sidebar.selectbox("Plan tier", ['Basic', 'Pro', 'Enterprise'])
 industry = st.sidebar.selectbox("Industry", df['industry'].unique())
 source = st.sidebar.selectbox("Referral source", df['referral_source'].unique())
 
-# Build input row and calculate probability
+# Build input row and calculate probability throgh sliders
 input_row = {
     'total_tickets': tickets,
     'avg_csat': csat,
@@ -56,7 +55,7 @@ input_encoded = input_encoded.reindex(columns=feature_cols, fill_value=0)
 input_scaled = scaler.transform(input_encoded)
 prob = model.predict_proba(input_scaled)[0][1] * 100
 
-# 2. Create the Tabs for the UI
+# 2. Tabs for the UI
 tab1, tab2 = st.tabs(["📊 Executive Dashboards", "🤖 Real-Time Churn Predictor"])
 
 # --- TAB 1: THE VISUAL PROOF (Assets) ---
