@@ -12,7 +12,7 @@ realistic B2B SaaS patterns.**
    me to model realistic business scenarios while including all 
    necessary dimensions.
 
-2. **Industry Benchmarks:** Data generation was based on research from:
+2. **Industry Benchmarks:** Data generation was based on research from: 
    - OpenView SaaS Benchmarks Report (2024)
    - ChartMogul SaaS Metrics Standards
    - Pacific Crest SaaS Survey
