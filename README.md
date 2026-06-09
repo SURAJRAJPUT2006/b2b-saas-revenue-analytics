@@ -2,7 +2,7 @@
 ## Data Methodology
 
 **This project uses synthetically generated data designed to reflect 
-realistic B2B SaaS patterns.**
+realistic B2B SaaS patterns. (AI as Copilot While code generation)**
 
 **Why synthetic data?**
 
