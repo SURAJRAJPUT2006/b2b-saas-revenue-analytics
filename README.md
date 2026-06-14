@@ -1,28 +1,54 @@
-# velocity-Saas-Churn-Analysis
-## Data Methodology
+# 📊 Velocity SaaS: Predictive Churn Engine & Revenue Turnaround
 
-**This project uses synthetically generated data designed to reflect 
-realistic B2B SaaS patterns. (AI as Copilot While code generation)**
+[![Live ML App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)]([INSERT YOUR STREAMLIT LINK HERE])
+[![Looker Dashboard](https://img.shields.io/badge/Executive_Dashboard-Looker_Studio-4285F4?style=for-the-badge&logo=google)]([INSERT YOUR LOOKER STUDIO LINK HERE])
+[![Founder Memo](https://img.shields.io/badge/Strategy_Brief-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader)](docs/Founder_Memo_Suraj_Rajput.pdf)
 
-**Why synthetic data?**
+## 💡 Executive Summary
+B2B SaaS companies often operate with a "leaky bucket" mentality—focusing heavily on new acquisition while ignoring silent revenue decay. 
 
-1. **Control & Realism:** Publicly available SaaS datasets often lack   
-   the granularity needed for advanced analysis (MRR movements, 
-   feature-level usage, expansion tracking). Generating data allowed 
-   me to model realistic business scenarios while including all 
-   necessary dimensions.
+This project is a full-stack Revenue Operations audit of 2.2M rows of synthetic SaaS telemetry data (benchmarked against ProfitWell/OpenView). By shifting from reactive BI reporting to a **Predictive Machine Learning Engine**, I successfully flagged 78 "ghosting" accounts, identifying **$411,800 in at-risk MRR** before cancellation occurred.
 
-2. **Industry Benchmarks:** Data generation was based on research from: 
-   - OpenView SaaS Benchmarks Report (2024)
-   - ChartMogul SaaS Metrics Standards
-   - Pacific Crest SaaS Survey
-   - ProfitWell Churn Research
+---
 
-3. **Statistical Validity:** Generated 2,000 accounts to ensure 
-   statistically significant sample sizes for cohort analysis 
-   (minimum 50 accounts per monthly cohort).
+## 📸 The Deployed Solution
 
-**Data Generation Methodology:** Python, SQL
+### 1. The ML Churn Predictor (Real-Time CS Workflow)
+I built and deployed a live Streamlit web application powered by a Logistic Regression model (achieving **98% Recall**). Customer Success teams can adjust customer parameters to calculate real-time churn probability.
+👉 **[Try the Live Web App Here]([INSERT YOUR STREAMLIT LINK HERE])**
 
-**Validation:** All patterns validated against industry benchmarks 
-(e.g., Enterprise churn: 5-7% annual, SMB churn: 10-15% annual).
+### 2. The BI Dashboard (Executive Rearview Mirror)
+I architected a 5-page Google Looker Studio dashboard visualizing MRR Waterfalls, Cohort Retention, and the $411k Silent Risk Tracker.
+👉 **[View the Executive Dashboard Here]([INSERT YOUR LOOKER STUDIO LINK HERE])**
+
+---
+
+## 📈 Key Business Discoveries (SQL Analytics)
+
+Through deep-dive SQL segmentation, I isolated the exact operational friction points driving revenue leakage:
+
+* **🚨 The Enterprise Crisis (80/20 Risk):** Enterprise accounts churned at 13.8% (vs a 10% baseline). Of the 78 at-risk accounts flagged by the model, just **22 Enterprise accounts represented $315,767 in MRR**. 
+* **⏳ The Support SLA Trap:** Accounts waiting >48 hours for a support resolution saw churn probability triple. Furthermore, accounts submitting 1-2 tickets churned *more* than those submitting 6+, proving that early friction without resolution drives silent disengagement.
+* **🥇 The Golden Handcuffs:** Integrating SSO and Webhooks actively reduced churn by 25%. These features create high switching costs and must become Day-1 onboarding KPIs.
+* **🚀 Acquisition Misalignment:** "Event" marketing yielded a massive 15.66% churn rate. Conversely, Organic Search acted as the true growth engine, driving $281,547 in highly-retained expansion MRR at near-zero CAC.
+
+---
+
+## ⚙️ Tech Stack & Architecture
+* **Database & Querying:** SQL (DuckDB)
+* **Predictive Modeling:** Python (Scikit-Learn, Pandas, NumPy)
+* **Model Algorithm:** Logistic Regression (Class-Weight Balanced, StandardScaler)
+* **Visualization & Deployment:** Streamlit, Plotly, Google Looker Studio
+* **Business Metrics:** MRR/ARR Waterfalls, NRR, CAC, Cohort Retention, Usage Decay
+
+---
+
+## 📂 Repository Structure
+```text
+b2b-saas-revenue-analytics/
+├── data/                             # Data generation scripts and CSV samples
+├── sql_analysis/                     # Business logic, CTES, and feature engineering
+├── ml_predictive_engine/             # Python Jupyter Notebooks (EDA & Model Training)
+├── streamlit_app/                    # Web app deployment files (app.py, requirements.txt)
+├── docs/                             # Executive Strategy PDFs (Founder Memo)
+└── README.md                         # Project documentation
