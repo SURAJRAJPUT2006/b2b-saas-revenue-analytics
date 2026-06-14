@@ -1,0 +1,215 @@
+churn_id,account_id,subscription_id,churn_date,reason_code,mrr_lost,preceding_upgrade_flag,preceding_downgrade_flag,is_reactivation,feedback_text
+CHN_00001,ACC_00002,SUB_00054,2023-11-15,Price Too High,15642,0,0,0,Laugh may stop like mother stay.
+CHN_00002,ACC_00005,SUB_00108,2023-09-04,Switched to Competitor,14478,0,0,0,Later happy pull really within.
+CHN_00003,ACC_00010,SUB_00204,2024-10-11,Poor Customer Support,552,0,0,0,
+CHN_00004,ACC_00026,SUB_00627,2024-05-26,Price Too High,56,0,0,0,Could this beautiful hospital.
+CHN_00005,ACC_00046,SUB_01032,2024-03-04,Missing Features,149,0,0,0,
+CHN_00006,ACC_00090,SUB_02002,2024-07-04,No Longer Needed,191,0,0,0,Eye what body every.
+CHN_00007,ACC_00092,SUB_02038,2024-03-19,Switched to Competitor,179,0,0,0,
+CHN_00008,ACC_00105,SUB_02360,2024-01-18,Price Too High,1032,0,1,0,Many themselves minute physical.
+CHN_00009,ACC_00112,SUB_02524,2024-01-14,Price Too High,1449,0,0,0,Indicate radio use listen information.
+CHN_00010,ACC_00126,SUB_02862,2024-07-03,Missing Features,2933,0,0,0,Factor as the.
+CHN_00011,ACC_00142,SUB_03216,2023-11-03,Price Too High,1327,0,0,0,Strong mind from official pretty.
+CHN_00012,ACC_00150,SUB_03402,2022-08-21,Missing Features,138,0,0,0,Main program morning nature leader note.
+CHN_00013,ACC_00153,SUB_03441,2023-05-14,Poor Customer Support,302,0,1,0,Commercial employee machine wife show.
+CHN_00014,ACC_00154,SUB_03454,2024-12-09,Switched to Competitor,9758,0,0,0,Chance expect what.
+CHN_00015,ACC_00169,SUB_03796,2023-07-02,Missing Features,21084,0,0,0,Under Republican expect win stuff realize project child.
+CHN_00016,ACC_00181,SUB_04038,2022-10-30,Poor Customer Support,6182,0,0,0,Bring year off kid hard.
+CHN_00017,ACC_00211,SUB_04771,2024-11-21,No Longer Needed,3612,0,0,0,None alone first gas health.
+CHN_00018,ACC_00214,SUB_04823,2023-04-15,Missing Features,90,0,1,0,
+CHN_00019,ACC_00215,SUB_04834,2023-03-26,No Longer Needed,444,0,0,0,Wish move building agent use shoulder way.
+CHN_00020,ACC_00218,SUB_04917,2023-04-10,Price Too High,5978,0,0,0,Choose wife national medical positive far.
+CHN_00021,ACC_00258,SUB_05868,2024-09-02,Switched to Competitor,5568,0,0,0,Wide senior yes project son.
+CHN_00022,ACC_00264,SUB_06015,2023-10-26,Poor Customer Support,238,0,1,0,Full both look always question bring.
+CHN_00023,ACC_00279,SUB_06416,2024-02-14,Missing Features,842,0,0,0,Husband subject land.
+CHN_00024,ACC_00287,SUB_06551,2023-04-16,No Longer Needed,121,0,0,0,For part crime money.
+CHN_00025,ACC_00296,SUB_06729,2024-08-01,Price Too High,7379,0,0,0,Cultural base support quality whatever.
+CHN_00026,ACC_00309,SUB_07076,2023-11-05,No Longer Needed,21419,0,1,0,Hour make owner memory argue project huge.
+CHN_00027,ACC_00314,SUB_07166,2023-07-19,Price Too High,13110,0,0,0,Hard health expect goal within them.
+CHN_00028,ACC_00319,SUB_07245,2024-09-12,Price Too High,111,0,0,0,Democratic thousand score indeed.
+CHN_00029,ACC_00342,SUB_07797,2024-01-23,Missing Features,21274,0,1,0,Eye south wife interest to cause.
+CHN_00030,ACC_00357,SUB_08096,2022-09-09,No Longer Needed,279,0,0,0,Our century field write moment friend value opportunity.
+CHN_00031,ACC_00360,SUB_08180,2023-09-12,Price Too High,6760,0,1,0,Because important trial increase new report.
+CHN_00032,ACC_00365,SUB_08311,2022-08-02,Price Too High,256,0,0,0,Current strategy face make.
+CHN_00033,ACC_00374,SUB_08506,2022-07-29,Missing Features,667,0,1,0,Strong fight nice less agree.
+CHN_00034,ACC_00381,SUB_08671,2024-03-17,No Longer Needed,819,0,0,0,
+CHN_00035,ACC_00386,SUB_08762,2024-02-13,Poor Customer Support,6022,0,1,0,Child feel policy.
+CHN_00036,ACC_00408,SUB_09312,2023-08-11,No Longer Needed,24263,0,0,0,Buy program explain conference trade population agreement.
+CHN_00037,ACC_00409,SUB_09324,2023-09-25,Missing Features,137,0,0,0,Manage wife out gun lose.
+CHN_00038,ACC_00410,SUB_09328,2023-09-12,No Longer Needed,1918,0,1,0,Than physical live reason build mention.
+CHN_00039,ACC_00431,SUB_09860,2022-10-22,Price Too High,10503,0,0,0,
+CHN_00040,ACC_00432,SUB_09875,2024-02-06,Poor Customer Support,171,0,0,0,Adult employee ok certainly leave really group.
+CHN_00041,ACC_00442,SUB_10060,2024-02-11,Switched to Competitor,11542,0,1,0,
+CHN_00042,ACC_00445,SUB_10117,2023-11-09,Poor Customer Support,11282,0,1,0,Evening information treatment.
+CHN_00043,ACC_00455,SUB_10343,2023-02-15,Price Too High,258,0,0,0,Any factor police baby create physical.
+CHN_00044,ACC_00467,SUB_10606,2023-07-03,Switched to Competitor,283,0,0,0,Out cold follow first.
+CHN_00045,ACC_00468,SUB_10624,2024-07-24,Poor Customer Support,90,0,0,0,Even recently guy move goal.
+CHN_00046,ACC_00483,SUB_10999,2022-07-03,Switched to Competitor,909,0,0,0,Actually million health machine.
+CHN_00047,ACC_00515,SUB_11783,2022-10-04,Missing Features,280,0,0,0,Tv clear design me story somebody.
+CHN_00048,ACC_00520,SUB_11850,2024-06-17,Switched to Competitor,832,0,0,0,Party story moment mother necessary series box.
+CHN_00049,ACC_00524,SUB_11946,2024-02-01,Price Too High,121,0,0,0,Trouble bring capital admit give reality catch.
+CHN_00050,ACC_00527,SUB_11995,2023-03-01,Price Too High,3650,0,0,0,Threat our shake garden report agreement.
+CHN_00051,ACC_00537,SUB_12164,2023-03-13,Missing Features,20055,0,0,0,Develop task central dinner.
+CHN_00052,ACC_00541,SUB_12281,2024-04-15,Missing Features,267,0,0,0,
+CHN_00053,ACC_00542,SUB_12300,2024-07-18,Switched to Competitor,74,0,0,0,Decide wonder interesting several.
+CHN_00054,ACC_00549,SUB_12444,2024-09-25,Switched to Competitor,270,0,1,0,Back simple serious amount.
+CHN_00055,ACC_00593,SUB_13608,2024-02-16,Price Too High,325,0,0,0,
+CHN_00056,ACC_00597,SUB_13709,2024-06-27,Missing Features,691,0,1,0,Allow process or light.
+CHN_00057,ACC_00599,SUB_13731,2024-10-06,Poor Customer Support,5238,0,0,0,Analysis feeling act benefit buy.
+CHN_00058,ACC_00606,SUB_13911,2024-07-13,Price Too High,1802,0,1,0,Day top continue goal before suffer walk we.
+CHN_00059,ACC_00615,SUB_14135,2024-07-20,Missing Features,12576,0,1,0,
+CHN_00060,ACC_00616,SUB_14151,2024-10-02,Switched to Competitor,20717,0,1,0,
+CHN_00061,ACC_00619,SUB_14200,2024-02-20,Missing Features,254,0,1,0,Goal talk sit party measure attention.
+CHN_00062,ACC_00623,SUB_14288,2023-06-10,Price Too High,17244,0,0,0,Shake more respond who commercial senior above rise.
+CHN_00063,ACC_00627,SUB_14365,2024-05-30,Poor Customer Support,84,0,0,0,
+CHN_00064,ACC_00629,SUB_14372,2023-04-03,Price Too High,1441,0,0,0,Turn surface listen recently continue.
+CHN_00065,ACC_00637,SUB_14580,2024-02-21,No Longer Needed,1193,0,0,0,Congress great here Democrat.
+CHN_00066,ACC_00638,SUB_14593,2023-02-15,Switched to Competitor,14934,0,0,0,Imagine seven fire letter mind.
+CHN_00067,ACC_00642,SUB_14698,2024-01-21,Price Too High,156,0,0,0,Several relate news American foreign break exist.
+CHN_00068,ACC_00649,SUB_14887,2022-11-22,Price Too High,1814,0,1,0,Save reach subject difficult imagine world into task.
+CHN_00069,ACC_00650,SUB_14909,2024-11-26,Switched to Competitor,1973,0,1,0,Voice happen actually purpose public how mission.
+CHN_00070,ACC_00658,SUB_15096,2024-12-27,Switched to Competitor,741,0,0,0,
+CHN_00071,ACC_00663,SUB_15208,2024-02-18,Missing Features,247,0,0,0,Budget house reason within.
+CHN_00072,ACC_00669,SUB_15333,2024-08-03,Missing Features,6617,0,1,0,Ask window full organization.
+CHN_00073,ACC_00677,SUB_15515,2022-09-19,Poor Customer Support,169,0,0,0,
+CHN_00074,ACC_00686,SUB_15707,2023-06-03,Price Too High,23696,0,0,0,But study rise everything require old.
+CHN_00075,ACC_00688,SUB_15766,2024-12-10,No Longer Needed,165,0,0,0,Series song wall green project.
+CHN_00076,ACC_00696,SUB_15938,2024-04-21,Price Too High,293,0,0,0,Would memory challenge lawyer business majority.
+CHN_00077,ACC_00698,SUB_15967,2023-04-12,No Longer Needed,1827,0,1,0,Pick care between apply attention.
+CHN_00078,ACC_00699,SUB_15981,2023-09-27,Price Too High,5921,0,0,0,Will him quickly.
+CHN_00079,ACC_00714,SUB_16340,2024-06-15,No Longer Needed,15774,0,0,0,Few perhaps set produce.
+CHN_00080,ACC_00746,SUB_17044,2024-05-09,Price Too High,148,0,0,0,Should society dark product make energy gas.
+CHN_00081,ACC_00753,SUB_17203,2024-04-01,Poor Customer Support,1361,0,0,0,National weight all involve trip himself fire.
+CHN_00082,ACC_00810,SUB_18669,2023-10-13,No Longer Needed,7053,0,0,0,Kind along computer process single those.
+CHN_00083,ACC_00814,SUB_18737,2023-03-15,Missing Features,13506,0,0,0,Man care resource maintain.
+CHN_00084,ACC_00816,SUB_18796,2024-01-13,Switched to Competitor,15089,0,0,0,Notice make network much.
+CHN_00085,ACC_00827,SUB_19090,2024-01-15,Poor Customer Support,4407,0,0,0,Live take media hot manager wife pay.
+CHN_00086,ACC_00830,SUB_19159,2024-08-15,Missing Features,13618,0,0,0,Short expect article opportunity campaign hand.
+CHN_00087,ACC_00833,SUB_19239,2023-01-31,Price Too High,22674,0,0,0,Agree through game best generation group goal product.
+CHN_00088,ACC_00835,SUB_19269,2023-04-27,Price Too High,210,0,1,0,
+CHN_00089,ACC_00836,SUB_19272,2023-08-04,Missing Features,2042,0,0,0,Doctor fine be read than.
+CHN_00090,ACC_00846,SUB_19520,2023-05-04,Missing Features,205,0,1,0,Front after for leave.
+CHN_00091,ACC_00849,SUB_19573,2022-09-01,Missing Features,986,0,0,0,Nothing top entire receive onto worry.
+CHN_00092,ACC_00853,SUB_19661,2024-08-09,No Longer Needed,1273,0,0,0,Now follow best major real day.
+CHN_00093,ACC_00861,SUB_19870,2022-12-27,No Longer Needed,147,0,0,0,Me share fund pass guy job market.
+CHN_00094,ACC_00878,SUB_20207,2023-10-11,Switched to Competitor,106,0,1,0,Subject movie explain answer.
+CHN_00095,ACC_00880,SUB_20234,2022-05-08,No Longer Needed,1383,0,0,0,I difficult sea begin such behind front.
+CHN_00096,ACC_00889,SUB_20446,2022-12-21,Missing Features,854,0,1,0,Note most interview girl.
+CHN_00097,ACC_00891,SUB_20489,2023-01-07,Switched to Competitor,444,0,0,0,
+CHN_00098,ACC_00905,SUB_20822,2022-12-16,Missing Features,171,0,0,0,Prepare few sound item.
+CHN_00099,ACC_00909,SUB_20894,2024-04-13,Price Too High,1993,0,0,0,Finish increase economy middle public natural thing.
+CHN_00100,ACC_00911,SUB_20917,2023-10-15,Missing Features,265,0,0,0,Reflect television officer defense while score level view.
+CHN_00101,ACC_00912,SUB_20936,2024-05-31,Poor Customer Support,62,0,0,0,Speak table trade various risk art customer.
+CHN_00102,ACC_00929,SUB_21284,2024-12-04,Price Too High,6436,0,0,0,Challenge character rate feel itself five store.
+CHN_00103,ACC_00933,SUB_21373,2023-10-01,Switched to Competitor,2168,0,1,0,Plant suffer environment expert.
+CHN_00104,ACC_00941,SUB_21554,2024-05-30,Poor Customer Support,1050,0,1,0,Either over image box.
+CHN_00105,ACC_00962,SUB_22181,2023-08-24,No Longer Needed,19007,0,0,0,Agree someone financial magazine yard.
+CHN_00106,ACC_00971,SUB_22384,2024-12-31,Price Too High,14325,0,0,0,Positive already city carry election sound.
+CHN_00107,ACC_00978,SUB_22530,2023-05-21,Missing Features,11151,0,0,0,Compare system white magazine after teacher base.
+CHN_00108,ACC_00992,SUB_22865,2023-07-23,Poor Customer Support,402,0,0,0,Fear as western to public though however style.
+CHN_00109,ACC_01007,SUB_23259,2024-03-22,Missing Features,865,0,0,0,Door number matter building.
+CHN_00110,ACC_01008,SUB_23280,2024-01-01,No Longer Needed,7594,0,0,0,Wear use edge this draw business southern forget.
+CHN_00111,ACC_01025,SUB_23638,2024-12-05,Price Too High,12404,0,1,0,
+CHN_00112,ACC_01043,SUB_24052,2024-01-10,Missing Features,13389,0,0,0,Say south season very design blood degree ever.
+CHN_00113,ACC_01061,SUB_24477,2023-10-21,Switched to Competitor,999,0,0,0,Effect operation make hear we first.
+CHN_00114,ACC_01074,SUB_24803,2023-05-05,No Longer Needed,104,0,0,0,Little east everyone six certain little.
+CHN_00115,ACC_01088,SUB_25111,2023-08-25,Missing Features,183,0,0,0,Start again whom paper success production.
+CHN_00116,ACC_01090,SUB_25148,2024-07-04,Switched to Competitor,178,0,0,0,Real small dream.
+CHN_00117,ACC_01098,SUB_25329,2022-12-21,Missing Features,216,0,0,0,
+CHN_00118,ACC_01106,SUB_25489,2023-04-29,Missing Features,29448,0,1,0,His police red total rate movement door.
+CHN_00119,ACC_01112,SUB_25614,2024-11-06,Switched to Competitor,178,0,0,0,Home travel hotel within eight bed.
+CHN_00120,ACC_01114,SUB_25626,2022-12-08,Missing Features,414,0,0,0,Father teacher civil keep first.
+CHN_00121,ACC_01118,SUB_25698,2023-12-03,Switched to Competitor,13830,0,1,0,Smile ever bag single man say.
+CHN_00122,ACC_01122,SUB_25816,2024-01-13,Price Too High,7450,0,1,0,Response theory star station recognize media.
+CHN_00123,ACC_01127,SUB_25893,2024-05-16,Switched to Competitor,7688,0,0,0,Inside role natural force receive seven.
+CHN_00124,ACC_01154,SUB_26602,2022-12-13,Poor Customer Support,26112,0,0,0,
+CHN_00125,ACC_01155,SUB_26607,2022-10-15,Price Too High,201,0,0,0,Picture social carry husband.
+CHN_00126,ACC_01161,SUB_26791,2024-10-16,No Longer Needed,222,0,1,0,Figure office book economic require should power candidate.
+CHN_00127,ACC_01189,SUB_27424,2024-06-26,Missing Features,6051,0,0,0,Rate society floor long same end reach step.
+CHN_00128,ACC_01198,SUB_27614,2023-11-23,Missing Features,230,0,1,0,Cup increase consider then war.
+CHN_00129,ACC_01202,SUB_27699,2023-11-28,Poor Customer Support,143,0,0,0,Difference way type positive phone trade wind.
+CHN_00130,ACC_01214,SUB_27950,2023-06-20,Missing Features,96,0,0,0,Energy system anyone peace outside.
+CHN_00131,ACC_01228,SUB_28258,2023-10-24,No Longer Needed,1806,0,0,0,Become happy water bring.
+CHN_00132,ACC_01233,SUB_28370,2023-11-27,No Longer Needed,62,0,0,0,Itself turn law purpose budget require course.
+CHN_00133,ACC_01242,SUB_28579,2024-05-17,Switched to Competitor,9404,0,0,0,Explain management candidate task outside.
+CHN_00134,ACC_01248,SUB_28692,2024-04-12,Missing Features,95,0,0,0,Risk country Congress society agreement.
+CHN_00135,ACC_01254,SUB_28813,2023-08-04,Switched to Competitor,160,0,0,0,Dog late eat old positive.
+CHN_00136,ACC_01261,SUB_29001,2024-07-26,Poor Customer Support,244,0,0,0,Action card follow realize.
+CHN_00137,ACC_01281,SUB_29430,2023-03-06,Price Too High,223,0,1,0,Require remain save eight believe.
+CHN_00138,ACC_01283,SUB_29468,2023-02-22,Price Too High,1082,0,1,0,Appear use likely great.
+CHN_00139,ACC_01297,SUB_29811,2023-09-12,Price Too High,60,0,1,0,Vote whose our security animal effect people few.
+CHN_00140,ACC_01304,SUB_29932,2023-12-11,Missing Features,11585,0,0,0,Provide car throughout American conference college.
+CHN_00141,ACC_01307,SUB_29985,2023-04-27,Missing Features,17408,0,0,0,Us there car fish most center bring.
+CHN_00142,ACC_01314,SUB_30155,2022-08-27,Poor Customer Support,1125,0,1,0,Without material wind.
+CHN_00143,ACC_01344,SUB_30876,2022-11-28,Price Too High,86,0,0,0,Security unit executive theory party.
+CHN_00144,ACC_01346,SUB_30914,2023-02-09,Price Too High,465,0,1,0,Might job close say man.
+CHN_00145,ACC_01361,SUB_31291,2023-03-09,Switched to Competitor,207,0,1,0,
+CHN_00146,ACC_01363,SUB_31332,2024-06-08,Price Too High,1023,0,0,0,New type PM key.
+CHN_00147,ACC_01378,SUB_31700,2023-04-09,Missing Features,234,0,1,0,Chance discover along employee relationship.
+CHN_00148,ACC_01383,SUB_31805,2023-08-02,No Longer Needed,288,0,0,0,
+CHN_00149,ACC_01384,SUB_31818,2024-09-25,Missing Features,12258,0,0,0,Break time manager kid writer night.
+CHN_00150,ACC_01399,SUB_32214,2024-04-25,No Longer Needed,629,0,0,0,
+CHN_00151,ACC_01403,SUB_32313,2024-02-09,Missing Features,78,0,0,0,Manage suffer term buy behavior test Congress.
+CHN_00152,ACC_01406,SUB_32373,2022-06-29,Missing Features,360,0,0,0,
+CHN_00153,ACC_01415,SUB_32603,2024-05-24,Switched to Competitor,249,0,0,0,
+CHN_00154,ACC_01419,SUB_32712,2023-05-27,Switched to Competitor,216,0,0,0,Seek state none production.
+CHN_00155,ACC_01436,SUB_33108,2024-03-07,Price Too High,650,0,0,0,On will moment number indicate.
+CHN_00156,ACC_01439,SUB_33154,2022-09-21,Missing Features,177,0,0,0,East marriage behind forget.
+CHN_00157,ACC_01443,SUB_33237,2022-11-13,Price Too High,2072,0,0,0,Race quite hour opportunity week.
+CHN_00158,ACC_01444,SUB_33242,2023-02-10,Price Too High,36,0,1,0,Child ball store process law western.
+CHN_00159,ACC_01450,SUB_33394,2023-04-14,Price Too High,17445,0,0,0,Price forget analysis performance laugh water yourself trade.
+CHN_00160,ACC_01451,SUB_33408,2024-12-26,Switched to Competitor,1228,0,0,0,Can tell soon executive sometimes season natural.
+CHN_00161,ACC_01455,SUB_33501,2022-08-23,No Longer Needed,83,0,0,0,
+CHN_00162,ACC_01459,SUB_33553,2022-07-30,Price Too High,440,0,0,0,High human concern whole tend become system clear.
+CHN_00163,ACC_01462,SUB_33620,2023-12-07,Price Too High,195,0,0,0,Expect sell pressure building make it.
+CHN_00164,ACC_01475,SUB_33891,2023-06-08,No Longer Needed,230,0,1,0,Tough page grow benefit happen.
+CHN_00165,ACC_01504,SUB_34583,2024-11-14,Switched to Competitor,46,0,0,0,Majority those live none institution.
+CHN_00166,ACC_01505,SUB_34591,2023-05-09,Switched to Competitor,8303,0,0,0,Specific pass its international American game.
+CHN_00167,ACC_01514,SUB_34787,2023-05-22,Poor Customer Support,628,0,0,0,Put positive require us money positive base.
+CHN_00168,ACC_01532,SUB_35110,2024-04-26,No Longer Needed,866,0,1,0,Join trade local chance campaign total success.
+CHN_00169,ACC_01539,SUB_35280,2022-10-24,Switched to Competitor,290,0,1,0,Into notice necessary true message member including.
+CHN_00170,ACC_01552,SUB_35563,2023-06-18,Switched to Competitor,14875,0,1,0,Produce nothing effect effort bank me box.
+CHN_00171,ACC_01559,SUB_35713,2022-11-27,Poor Customer Support,483,0,0,0,Conference consider hotel bar theory fear onto.
+CHN_00172,ACC_01569,SUB_35977,2024-03-06,Missing Features,5644,0,0,0,Serious last space game truth special decision.
+CHN_00173,ACC_01575,SUB_36137,2023-11-05,Missing Features,888,0,1,0,Section page the blood.
+CHN_00174,ACC_01590,SUB_36573,2024-07-29,Missing Features,2723,0,1,0,Adult house actually pretty least if price.
+CHN_00175,ACC_01594,SUB_36649,2022-07-02,Switched to Competitor,406,0,0,0,Rise field spend pattern real white push source.
+CHN_00176,ACC_01601,SUB_36790,2023-04-10,No Longer Needed,15431,0,0,0,
+CHN_00177,ACC_01608,SUB_36955,2024-08-25,Missing Features,1975,0,0,0,By add born administration.
+CHN_00178,ACC_01613,SUB_37073,2024-04-28,Price Too High,300,0,0,0,
+CHN_00179,ACC_01617,SUB_37110,2022-10-03,Switched to Competitor,87,0,0,0,Teacher decide possible power job.
+CHN_00180,ACC_01644,SUB_37842,2024-06-16,Price Too High,209,0,1,0,Teach Mrs beat show challenge instead bring total.
+CHN_00181,ACC_01661,SUB_38160,2022-06-26,Missing Features,198,0,0,0,White likely teacher one cut notice.
+CHN_00182,ACC_01679,SUB_38612,2024-02-18,Price Too High,82,0,0,0,Anything account piece require woman support.
+CHN_00183,ACC_01686,SUB_38762,2023-02-22,No Longer Needed,122,0,0,0,Other never fact maintain main opportunity particularly question.
+CHN_00184,ACC_01690,SUB_38832,2023-07-05,No Longer Needed,12748,0,0,0,Discussion art affect office network environmental possible.
+CHN_00185,ACC_01696,SUB_38909,2023-05-22,Price Too High,2053,0,1,0,Bring performance position large job claim risk.
+CHN_00186,ACC_01703,SUB_39039,2024-11-16,Price Too High,1286,0,0,0,Gas discussion detail training fund own successful.
+CHN_00187,ACC_01706,SUB_39107,2024-07-29,Missing Features,179,0,1,0,Capital fall represent where strategy pull same.
+CHN_00188,ACC_01707,SUB_39117,2024-04-01,Price Too High,8218,0,1,0,Son suddenly perform executive see project can.
+CHN_00189,ACC_01713,SUB_39237,2024-02-16,Missing Features,18745,0,0,0,Choose man soldier wall management.
+CHN_00190,ACC_01725,SUB_39543,2024-11-29,Price Too High,8342,0,0,0,Decide another adult thing ground.
+CHN_00191,ACC_01730,SUB_39655,2023-04-03,Missing Features,121,0,0,0,Company teacher me southern.
+CHN_00192,ACC_01738,SUB_39831,2024-03-26,Price Too High,360,0,0,0,Issue pay building difference election future.
+CHN_00193,ACC_01743,SUB_39948,2023-08-09,Price Too High,218,0,1,0,Show show news to table them.
+CHN_00194,ACC_01749,SUB_40113,2023-06-13,Missing Features,137,0,0,0,
+CHN_00195,ACC_01756,SUB_40266,2024-07-22,Price Too High,1260,0,1,0,Prove relationship unit just lead success book black.
+CHN_00196,ACC_01772,SUB_40642,2024-03-01,Missing Features,128,0,0,0,Participant teach big none medical cold brother day.
+CHN_00197,ACC_01780,SUB_40851,2023-10-11,Switched to Competitor,7069,0,0,0,Church factor kid media run between.
+CHN_00198,ACC_01782,SUB_40904,2024-10-22,No Longer Needed,241,0,0,0,
+CHN_00199,ACC_01800,SUB_41314,2022-12-26,Poor Customer Support,2117,0,1,0,Free case summer keep indeed shoulder.
+CHN_00200,ACC_01814,SUB_41726,2023-02-06,Poor Customer Support,9537,0,0,0,Strong list expert commercial entire.
+CHN_00201,ACC_01816,SUB_41770,2023-05-25,Switched to Competitor,1128,0,1,0,Guess professor charge send instead direction.
+CHN_00202,ACC_01826,SUB_41947,2023-07-09,Missing Features,5948,0,1,0,Including important learn system some gun.
+CHN_00203,ACC_01844,SUB_42400,2023-09-12,No Longer Needed,516,0,0,0,
+CHN_00204,ACC_01850,SUB_42515,2022-08-06,No Longer Needed,386,0,0,0,Kind show response.
+CHN_00205,ACC_01860,SUB_42752,2023-11-08,Poor Customer Support,91,0,0,0,Want be fire word clearly article service.
+CHN_00206,ACC_01865,SUB_42882,2024-03-10,Poor Customer Support,1587,0,1,0,
+CHN_00207,ACC_01890,SUB_43521,2023-04-10,No Longer Needed,3820,0,0,0,
+CHN_00208,ACC_01894,SUB_43609,2023-04-07,No Longer Needed,698,0,0,0,
+CHN_00209,ACC_01896,SUB_43669,2024-03-24,Switched to Competitor,8010,0,0,0,Total around place require.
+CHN_00210,ACC_01910,SUB_43984,2023-08-24,Poor Customer Support,374,0,0,0,Win information though red them return finish.
+CHN_00211,ACC_01913,SUB_44026,2024-07-25,Price Too High,5801,0,0,0,Account evidence month turn record land.
+CHN_00212,ACC_01945,SUB_44759,2023-10-07,No Longer Needed,7453,0,0,0,Thought person peace kind generation.
+CHN_00213,ACC_01972,SUB_45481,2024-04-15,Price Too High,4745,0,1,0,Simple thing base Mr hope rest.
+CHN_00214,ACC_01979,SUB_45650,2022-08-20,Price Too High,1005,0,0,0,Minute must degree memory.
