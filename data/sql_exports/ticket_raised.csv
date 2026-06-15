@@ -1,5 +1,0 @@
-volume_bucket,total_accounts,churned_accounts,churn_pct
-0(Silent),158,0,0.0
-1-2(Low),104,14,13.46
-3-5(Mid),445,47,10.56
-6+(High),1293,153,11.83
