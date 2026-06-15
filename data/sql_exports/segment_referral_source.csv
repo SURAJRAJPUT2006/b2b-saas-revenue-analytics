@@ -1,0 +1,9 @@
+referral_source,total_accounts,churned_accounts,churn_pct
+Events,83,13,15.66
+Referral,159,24,15.09
+Direct,109,16,14.68
+Content Marketing,245,29,11.84
+Organic Search,502,49,9.76
+LinkedIn,303,29,9.57
+Paid Search,414,38,9.18
+Partnership,185,16,8.65

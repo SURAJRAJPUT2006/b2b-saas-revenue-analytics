@@ -1,0 +1,6 @@
+resolution_bucket,total_accounts,churned_accounts,churn_pct
+No Tickets,159,0,0.0
+<12h,5,1,20.0
+12-24h,14,1,7.14
+24-48h,192,18,9.38
+48h+,1630,194,11.9
