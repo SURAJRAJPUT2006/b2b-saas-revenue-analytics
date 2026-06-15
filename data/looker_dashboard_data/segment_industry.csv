@@ -1,0 +1,11 @@
+industry,total_accounts,churned_accounts,churn_pct
+SaaS,216,28,12.96
+Healthcare,200,25,12.5
+Education,193,23,11.92
+Media,202,24,11.88
+Real Estate,198,22,11.11
+Manufacturing,182,19,10.44
+Finance,188,19,10.11
+Marketing,205,18,8.78
+E-commerce,205,18,8.78
+Consulting,211,18,8.53

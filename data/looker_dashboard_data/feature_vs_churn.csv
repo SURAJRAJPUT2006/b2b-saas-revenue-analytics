@@ -1,0 +1,31 @@
+feature_name,adoption_status,account_count,churned_accounts,churn_rate_pct
+API Access,Adopted,824,104,12.62
+API Access,Not Adopted,1176,110,9.35
+Advanced Analytics,Adopted,822,90,10.95
+Advanced Analytics,Not Adopted,1178,124,10.53
+Auto Backup,Adopted,804,83,10.32
+Auto Backup,Not Adopted,1196,131,10.95
+Bulk Import,Adopted,814,89,10.93
+Bulk Import,Not Adopted,1186,125,10.54
+Custom Fields,Adopted,820,90,10.98
+Custom Fields,Not Adopted,1180,124,10.51
+Custom Reports,Adopted,810,91,11.23
+Custom Reports,Not Adopted,1190,123,10.34
+Dashboard Export,Adopted,823,92,11.18
+Dashboard Export,Not Adopted,1177,122,10.37
+Email Automation,Adopted,779,87,11.17
+Email Automation,Not Adopted,1221,127,10.4
+Integrations,Adopted,832,80,9.62
+Integrations,Not Adopted,1168,134,11.47
+Mobile App,Adopted,792,92,11.62
+Mobile App,Not Adopted,1208,122,10.1
+Role Permissions,Adopted,799,88,11.01
+Role Permissions,Not Adopted,1201,126,10.49
+SSO,Adopted,811,72,8.88
+SSO,Not Adopted,1189,142,11.94
+Team Collaboration,Adopted,799,97,12.14
+Team Collaboration,Not Adopted,1201,117,9.74
+Webhook,Adopted,818,78,9.54
+Webhook,Not Adopted,1182,136,11.51
+White Labeling,Adopted,826,89,10.77
+White Labeling,Not Adopted,1174,125,10.65
