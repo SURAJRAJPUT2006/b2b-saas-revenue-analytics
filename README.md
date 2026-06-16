@@ -1,6 +1,6 @@
 # 📊 Velocity SaaS: Predictive Churn Engine & Revenue Turnaround
 
-[![Live ML App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)]([INSERT YOUR STREAMLIT LINK HERE])
+[![Live ML App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)]([[INSERT YOUR STREAMLIT LINK HERE]](https://velocity-saas-churn-predictor.streamlit.app/)
 [![Looker Dashboard](https://img.shields.io/badge/Executive_Dashboard-Looker_Studio-4285F4?style=for-the-badge&logo=google)]([INSERT YOUR LOOKER STUDIO LINK HERE])
 [![Founder Memo](https://img.shields.io/badge/Strategy_Brief-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader)](docs/Founder_Memo_Suraj_Rajput.pdf)
 
@@ -15,7 +15,7 @@ This project is a full-stack Revenue Operations audit of 2.2M rows of synthetic 
 
 ### 1. The ML Churn Predictor (Real-Time CS Workflow)
 I built and deployed a live Streamlit web application powered by a Logistic Regression model (achieving **98% Recall**). Customer Success teams can adjust customer parameters to calculate real-time churn probability.
-👉 **[Try the Live Web App Here]([https://velocity-saas-churn-predictor.streamlit.app/])**
+👉 **[Try the Live Web App Here](https://velocity-saas-churn-predictor.streamlit.app/)**
 
 ### 2. The BI Dashboard (Executive Rearview Mirror)
 I architected a 5-page Google Looker Studio dashboard visualizing MRR Waterfalls, Cohort Retention, and the $411k Silent Risk Tracker.
