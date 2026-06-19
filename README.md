@@ -1,7 +1,7 @@
 # 📊 Velocity SaaS: Predictive Churn Engine & Revenue Turnaround
 
 [![Live ML App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://velocity-saas-churn-predictor.streamlit.app/)
-[![Looker Dashboard](https://img.shields.io/badge/Executive_Dashboard-Looker_Studio-4285F4?style=for-the-badge&logo=google)]([[INSERT YOUR LOOKER STUDIO LINK HERE]](https://datastudio.google.com/reporting/63493602-4b12-4f11-928a-4eb91acbc790/page/p_n1xeecef4d))
+[![Looker Dashboard](https://img.shields.io/badge/Executive_Dashboard-Looker_Studio-4285F4?style=for-the-badge&logo=google)](https://datastudio.google.com/reporting/63493602-4b12-4f11-928a-4eb91acbc790/page/p_n1xeecef4d)
 [![Founder Memo](https://img.shields.io/badge/Strategy_Brief-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader)](docs/Founder_Memo_Suraj_Rajput.pdf)
 
 ## 💡 Executive Summary
