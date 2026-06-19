@@ -19,7 +19,7 @@ I built and deployed a live Streamlit web application powered by a Logistic Regr
 
 ### 2. The BI Dashboard (Executive Rearview Mirror)
 I architected a 5-page Google Looker Studio dashboard visualizing MRR Waterfalls, Cohort Retention, and the $411k Silent Risk Tracker.
-👉 **[View the Executive Dashboard Here]([INSERT YOUR LOOKER STUDIO LINK HERE])**
+👉 **[View the Executive Dashboard Here](https://datastudio.google.com/reporting/63493602-4b12-4f11-928a-4eb91acbc790/page/p_n1xeecef4d)**
 
 ---
 
