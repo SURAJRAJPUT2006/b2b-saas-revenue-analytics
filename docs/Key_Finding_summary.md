@@ -14,10 +14,10 @@ Acquisition has nearly stopped. Churn is accelerating quietly.
 
 ## 5 Most Important Findings
 
-### 1. Acquisition Has Collapsed — $852 New MRR in Jan 2024
-New customer MRR declined ~90% from peak.
-The acquisition funnel is not converting at a rate sufficient to sustain growth.
-**Risk:** Any slowdown in expansion from existing customers will cause total MRR to fall.
+### 1. The Leaky Bucket — Net Growth Stalled to $852
+Marketing is successfully acquiring customers, but retention is failing. In January 2024, 
+the company acquired **$55k in New MRR**, but lost **$71k to Churn**, resulting in a staggering net growth of just **$852**. 
+**Risk:** You cannot "market" your way out of this deficit. Without an early-warning churn system to plug the leak, the business is effectively shrinking from the bottom up.
 
 ### 2. Enterprise Churn at 13.8% — Highest Revenue Risk
 Enterprise accounts churn 38% more than Basic accounts.
