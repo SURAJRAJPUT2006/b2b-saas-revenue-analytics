@@ -17,7 +17,7 @@ This project is a full-stack Revenue Operations audit of 2.2M rows of synthetic 
 I built and deployed a live Streamlit web application powered by a Logistic Regression model (achieving **98% Recall**). Customer Success teams can adjust customer parameters to calculate real-time churn probability.
 👉 **[Try the Live Web App Here](https://velocity-saas-churn-predictor.streamlit.app/)**
 
-### 2. The BI Dashboard (Executive Rearview Mirror)
+### 2. The BI Dashboard (Executive Rearview Mirror)    
 I architected a 5-page Google Looker Studio dashboard visualizing MRR Waterfalls, Cohort Retention, and the $411k Silent Risk Tracker. 
 👉 **[View the Executive Dashboard Here](https://datastudio.google.com/reporting/63493602-4b12-4f11-928a-4eb91acbc790/page/p_n1xeecef4d)**
 
