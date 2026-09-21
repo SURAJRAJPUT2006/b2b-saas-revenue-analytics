@@ -64,19 +64,19 @@ def prepare_batch_data(data: pd.DataFrame, feature_cols: list[str]):
                 errors="coerce",
             )
 
-        if (
+    if (
             "csat_responses_90d" in prepared.columns
             and "avg_csat_90d" in prepared.columns
-        ):
+    ):
             prepared.loc[
                 prepared["csat_responses_90d"] == 0,
                 "avg_csat_90d"
             ] = np.nan
 
-       if (
+    if (
              "resolution_observations_90d" in prepared.columns
                 and "avg_res_time_90d" in prepared.columns
-       ):
+    ):
             prepared.loc[
                 prepared["resolution_observations_90d"] == 0,
                 "avg_res_time_90d"
