@@ -212,8 +212,7 @@ with single_tab:
             value=2,
             step=1,
         )
-
-       resolution_observations_90d = st.number_input(
+        resolution_observations_90d = st.number_input(
             "Resolution observations — previous 90 days",
             min_value=0,
             max_value=500,
