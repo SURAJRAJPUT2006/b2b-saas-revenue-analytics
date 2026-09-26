@@ -68,3 +68,7 @@ The modelling layer uses monthly account snapshots:
 Past support and usage signals
 → snapshot date
 → churn during the following 60 days
+
+Model validation: On a future held-out synthetic period, the top 50 scored account snapshots contained 16 actual churn cases, giving the queue 32% precision. Expanding the review queue to 500 accounts captured 31.6% of future churn cases. These results are intended to support prioritization, not automated churn decisions.
+
+
