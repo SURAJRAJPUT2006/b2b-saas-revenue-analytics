@@ -44,7 +44,7 @@ A five-page Looker Studio dashboard covering:
 
 ### 2. Customer Success Risk Queue
 
-A current usage-decay screen flags active accounts that meet this rule:
+Latest-observed-period usage-decay screen — December 2024 flags active accounts that meet this rule:
 
 - At least five active days in the previous calendar month
 - A 50% or greater drop in active days in the latest month
